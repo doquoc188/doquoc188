@@ -95,29 +95,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Deep Learning
-- NLP
-- Computer Vision
-- MLOps
-
----
-
-## 📚 Currently Learning
-
-- LangGraph
-- FastAPI
-- Docker
-- Kubernetes
-- Vector Databases
-- AWS
-
----
-
 <p align="center">
   <b>⭐ Thanks for visiting my profile! ⭐</b>
 </p>

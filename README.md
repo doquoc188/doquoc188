@@ -24,11 +24,20 @@
 
 ### 📊 **My GitHub Stats**
 <p align="center">
+  <!-- Thẻ chính: Đã thêm &count_private=true và đổi endpoint chuẩn, tối ưu chiều cao hiển thị -->
   <a href="https://github.com/doquoc188">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=doquoc188&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=doquoc188&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165px"/>
   </a>
+  <!-- Thẻ ngôn ngữ: Đã căn chỉnh lại tương thích chiều cao -->
   <a href="https://github.com/doquoc188">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=doquoc188&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" height="180px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doquoc188&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" height="165px"/>
+  </a>
+</p>
+
+<p align="center">
+  <!-- Thêm GitHub Streak Stats giúp tăng độ chuyên nghiệp, hiển thị chuỗi ngày commit liên tục -->
+  <a href="https://github.com/doquoc188">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=doquoc188&theme=radical&hide_border=true" alt="GitHub Streak" height="165px"/>
   </a>
 </p>
 

@@ -16,7 +16,6 @@
 - 🤖 Interested in Artificial Intelligence, Machine Learning and Deep Learning
 - 🌱 Currently learning **LLMs, RAG, AI Agents and MLOps**
 - 💡 Love building practical AI applications
-- 🚀 Looking for Internship & Collaboration opportunities
 
 ---
 
@@ -82,16 +81,6 @@
 | **Face Recognition** | Face recognition system using Deep Learning | Python, OpenCV, PyTorch |
 | **Student Score Prediction** | Predicting student scores using Machine Learning | Python, Scikit-learn |
 | **More Projects** | More AI & Data Science projects are coming soon... | 🚀 |
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=doquoc188&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doquoc188&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 

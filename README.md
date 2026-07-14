@@ -54,3 +54,7 @@
     <img src="https://komarev.com/ghpvc/?username=doquoc188&icon=0&color=0077B5" alt="Profile Views" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/doquoc188/doquoc188/output/github-snake-dark.svg" alt="GitHub Snake Game" />
+</p>

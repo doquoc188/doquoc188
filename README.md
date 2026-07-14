@@ -74,13 +74,16 @@
 
 ---
 
-# 🚀 Featured Projects
+## 📊 GitHub Summary
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Face Recognition** | Face recognition system using Deep Learning | Python, OpenCV, PyTorch |
-| **Student Score Prediction** | Predicting student scores using Machine Learning | Python, Scikit-learn |
-| **More Projects** | More AI & Data Science projects are coming soon... | 🚀 |
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doquoc188&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=doquoc188&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=doquoc188&theme=github_dark" />
+</p>
 
 ---
 

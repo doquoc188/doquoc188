@@ -74,15 +74,11 @@
 
 ---
 
-## 📊 GitHub Summary
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=doquoc188&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=doquoc188&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=doquoc188&theme=github_dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=doquoc188&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doquoc188&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

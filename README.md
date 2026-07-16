@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Do Quo
+# 👋 Hi, I'm Do Quoc
 
 <p align="center">
   <b>AI Engineer | Machine Learning | Deep Learning | LLM | Data Science</b>

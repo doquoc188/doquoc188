@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓Information Technology ( Major in Artificial intelligence)
+- 🎓Information Technology (Major in Artificial intelligence)
 - 🤖 Interested in Artificial Intelligence, Machine Learning and Deep Learning
 - 🌱 Currently learning **LLMs, RAG, AI Agents and MLOps**
 - 💡 Love building practical AI applications

@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Do Quoc
+# 👋 Hi, I'm Do Trong Quoc
 
 <p align="center">
   <b>AI Engineer | Machine Learning | Deep Learning | Computer Vision | LLM & Data Science</b>

@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Do Trong Quoc
 
 <p align="center">
-  <b>AI Engineer | Machine Learning | Deep Learning | Computer Vision | LLM & Data Science</b>
+  <b>AI Engineer | Applied AI | LLM Agents | RAG | Computer Vision</b>
 </p>
 
 <p align="center">
-  Passionate about developing Computer Vision systems, Deep Learning architectures, and LLM-powered applications.
+  Building practical AI systems with LLMs, RAG, AI Agents, Computer Vision, and end-to-end deployment.
 </p>
 
 ---

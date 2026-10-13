@@ -67,7 +67,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=plotly&logoColor=black)
-![Albumentations](https://img.shields.io/badge/Augmentation-Position%20%26%20Color-brightgreen?style=for-the-badge)
 
 ### 🗄️ Database
 

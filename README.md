@@ -99,35 +99,6 @@ looking_for: Internship / Junior AI Engineer opportunities & AI project collabor
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 [Agentic Data Analyst](https://github.com/doquoc188/Agentic-Data-Analyst)
-
-A deployed **natural-language analytics system**: a Gemini-powered, manual LangChain tool-calling agent discovers database schemas, generates read-only SQL, self-corrects errors, and answers from PostgreSQL through guarded tools.
-
-- 🔒 Safe execution: read-only SQL, statement timeout, result row cap, allowlisted database profiles
-- 🧪 Evaluation: **Sales 22/24 (91.67%)** · **unseen SaaS 14/16 (87.50%)** · real-world **Olist 70% → 85%** after tuning
-- 🏗️ Architecture: React + TypeScript (Vercel) → FastAPI (Render) → LangChain agent ↔ Gemini → PostgreSQL (Neon)
-- 🔗 **[Live demo](https://agentic-data-analyst-nine.vercel.app)** · [Repository](https://github.com/doquoc188/Agentic-Data-Analyst)
-
-`Python` `LangChain` `Gemini` `FastAPI` `PostgreSQL` `React` `TypeScript` `Docker`
-
-<br>
-
-### 📈 [FinRAG Analyst Agent](https://github.com/doquoc188/Finance_Rag)
-
-A **financial-report Q&A application** built around traceable source evidence: incremental indexing, hybrid retrieval, bounded LangGraph query correction, grounded generation and deterministic checks for numeric claims.
-
-- 🔎 Hybrid retrieval: Qdrant dense + BM25 with Reciprocal Rank Fusion, optional BGE cross-encoder reranking
-- ✅ Deterministic `Decimal`-based numeric verification: `SUPPORTED` / `CONTRADICTED` / `NOT_FOUND`
-- 🕸️ Optional isolated Microsoft GraphRAG (LOCAL / GLOBAL) integration
-- 🧪 **408 offline tests** passing, plus a versioned retrieval benchmark (BM25 baseline: Recall@5 = 0.7593 on a small synthetic fixture)
-- 🔗 [Repository](https://github.com/doquoc188/Finance_Rag)
-
-`Python` `LangGraph` `Qdrant` `BM25` `FastAPI` `Streamlit` `GraphRAG`
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">

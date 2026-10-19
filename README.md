@@ -41,14 +41,13 @@ looking_for: Internship / Junior AI Engineer opportunities & AI project collabor
 ## 🛠️ Tech Stack
 
 <details open>
-<summary><b>🖥️ Languages & 🤖 AI / Deep Learning</b></summary>
+<summary><b>🖥️ Languages</b></summary>
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 </details>
 
@@ -58,10 +57,36 @@ looking_for: Internship / Junior AI Engineer opportunities & AI project collabor
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3A?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3A?style=for-the-badge)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8E5CF7?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
+![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![GraphRAG](https://img.shields.io/badge/Microsoft%20GraphRAG-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+| Technique | What I've built with it |
+|-----------|-------------------------|
+| Agentic text-to-SQL | Tool-calling loop with schema discovery, guarded SQL execution and self-correction |
+| Hybrid retrieval | Dense (Qdrant) + BM25 with Reciprocal Rank Fusion and cross-encoder reranking |
+| Corrective RAG | Bounded query rewriting and evidence grading with LangGraph |
+| Verification & evaluation | Deterministic numeric checks, retrieval benchmarks, frozen evaluation sets |
+
+</details>
+
+<details open>
+<summary><b>🤖 Machine Learning & Deep Learning</b></summary>
+<br>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-02A9F4?style=for-the-badge)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </details>
 
@@ -74,26 +99,62 @@ looking_for: Internship / Junior AI Engineer opportunities & AI project collabor
 
 | Area | Models / Techniques |
 |------|---------------------|
-| Image Classification | AlexNet · VGG · ResNet |
+| Image Classification | Custom CNN · AlexNet · VGG · ResNet |
 | Object Detection | R-CNN · Fast R-CNN · Faster R-CNN |
 | Segmentation & Generative | Image Segmentation · GANs |
+| Face Detection & Recognition | Haar Cascades · LBPH |
 
 </details>
 
 <details open>
-<summary><b>📊 Data, 🗄️ Database, ⚙️ Backend & Tools</b></summary>
+<summary><b>📊 Data Science</b></summary>
 <br>
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E699?style=for-the-badge&logo=neon&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
+
+</details>
+
+<details open>
+<summary><b>🌐 Backend & Frontend</b></summary>
+<br>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ DevOps, Deployment & Quality</b></summary>
+<br>
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)
+![mypy](https://img.shields.io/badge/mypy-2A6DB2?style=for-the-badge)
 
 </details>
 

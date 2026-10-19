@@ -31,10 +31,10 @@ currently_learning: [Advanced CV Architectures, MLOps, Multi-Agent Systems]
 looking_for: Internship / Junior AI Engineer opportunities & AI project collaborations
 ```
 
-- 🤖 Specialized in **Deep Learning & Computer Vision** (CNNs, Object Detection, Segmentation) and **LLMs**
+- 🤖 Specialized in **Deep Learning & Computer Vision** (CNNs, Face Detection & Recognition) and **LLMs**
 - 🌱 Currently mastering **Computer Vision Architectures, MLOps, LLMs, RAG, and AI Agents**
 - 💡 Love building **end-to-end, high-impact AI applications** — from data and training to deployment
-- 💬 Ask me about: *agentic text-to-SQL, hybrid RAG (dense + BM25 + reranking), LangGraph workflows, object detection, deploying AI apps*
+- 💬 Ask me about: *agentic text-to-SQL, hybrid RAG (dense + BM25 + reranking), LangGraph workflows, computer vision with OpenCV & PyTorch, deploying AI apps*
 
 ---
 
@@ -47,7 +47,6 @@ looking_for: Internship / Junior AI Engineer opportunities & AI project collabor
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 </details>
 
@@ -61,7 +60,6 @@ looking_for: Internship / Junior AI Engineer opportunities & AI project collabor
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3A?style=for-the-badge)
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3A?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8E5CF7?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -85,7 +83,6 @@ looking_for: Internship / Junior AI Engineer opportunities & AI project collabor
 ![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?style=for-the-badge)
 ![LightGBM](https://img.shields.io/badge/LightGBM-02A9F4?style=for-the-badge)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </details>
@@ -99,9 +96,7 @@ looking_for: Internship / Junior AI Engineer opportunities & AI project collabor
 
 | Area | Models / Techniques |
 |------|---------------------|
-| Image Classification | Custom CNN · AlexNet · VGG · ResNet |
-| Object Detection | R-CNN · Fast R-CNN · Faster R-CNN |
-| Segmentation & Generative | Image Segmentation · GANs |
+| Image Classification | Custom CNN (SimpleCNN) |
 | Face Detection & Recognition | Haar Cascades · LBPH |
 
 </details>
@@ -114,7 +109,6 @@ looking_for: Internship / Junior AI Engineer opportunities & AI project collabor
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </details>
 
@@ -124,7 +118,6 @@ looking_for: Internship / Junior AI Engineer opportunities & AI project collabor
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00E699?style=for-the-badge&logo=neon&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
 
 </details>

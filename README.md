@@ -75,13 +75,17 @@ I'm a final-year **Information Technology student** focused on **Applied AI** an
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=doquoc188&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+  <img src="./assets/contrib.svg" width="100%" alt="Contribution activity" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=doquoc188&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph" />
-</div>
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=110&section=footer" width="100%" alt="Footer wave" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8C;Feel+free+to+connect+and+collaborate+%F0%9F%A4%9D" alt="Thanks for visiting my profile!" />
+
+<p><i>⭐ If you find my projects useful, consider giving them a star!</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=110&section=footer" width="100%" alt="Footer wave" />
+
 </div>

@@ -22,7 +22,7 @@
 I'm a final-year **Information Technology student** focused on **Applied AI** and building end-to-end intelligent applications.
 
 - 🔭 **Focus:** LLM Agents, RAG, Deep Learning, and Computer Vision
-- 🌱 **Learning:** MLOps, advanced CV architectures, and multi-agent systems
+- 🌱 **Learning:** MLOps, LLMOps advanced CV architectures, and multi-agent systems
 - 🤝 **Open to:** AI Engineer internships, junior roles, and collaborations
 
 ## 🛠️ Tech Stack

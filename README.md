@@ -35,42 +35,55 @@ I'm a final-year **Information Technology student** focused on **Applied AI** an
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" height="32" alt="" /> Tech Stack
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" height="22" alt="" /> <b>LLM & AI Agents</b><br/><br/>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/openai.png" /><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/openai.png" height="40" alt="OpenAI" title="OpenAI API" /></picture>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" height="40" alt="Gemini" title="Gemini API" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claude-color.svg" height="40" alt="Claude" title="Anthropic API" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" height="40" alt="LangChain" title="LangChain" />&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/langgraph.png" /><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/langgraph.png" height="40" alt="LangGraph" title="LangGraph" /></picture>&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/langsmith.png" /><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/langsmith.png" height="40" alt="LangSmith" title="LangSmith" /></picture>&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/mcp.png" /><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/mcp.png" height="40" alt="MCP" title="Model Context Protocol" /></picture>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/huggingface-color.svg" height="40" alt="Hugging Face" title="Hugging Face / Sentence Transformers" />
-
-<br/><br/><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" height="22" alt="" /> <b>RAG & Machine Learning</b><br/><br/>
-<img src="https://cdn.simpleicons.org/qdrant" height="40" alt="Qdrant" title="Qdrant" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/meta" height="40" alt="FAISS" title="FAISS (Meta)" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/pytorch" height="40" alt="PyTorch" title="PyTorch / Torchvision" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/scikitlearn" height="40" alt="scikit-learn" title="scikit-learn" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/opencv" height="40" alt="OpenCV" title="OpenCV" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" height="40" alt="XGBoost" title="XGBoost" />
-
-<br/><br/><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" height="22" alt="" /> <b>Development & Data</b><br/><br/>
-<img src="https://cdn.simpleicons.org/python" height="40" alt="Python" title="Python" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/typescript" height="40" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/fastapi" height="40" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/react" height="40" alt="React" title="React" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql" height="40" alt="PostgreSQL" title="PostgreSQL / SQL" />&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pandas/white" /><img src="https://cdn.simpleicons.org/pandas" height="40" alt="Pandas" title="Pandas" /></picture>&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/numpy/4DABCF" /><img src="https://cdn.simpleicons.org/numpy" height="40" alt="NumPy" title="NumPy" /></picture>
-
-<br/><br/><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" height="22" alt="" /> <b>Tools & Deployment</b><br/><br/>
-<img src="https://cdn.simpleicons.org/git" height="40" alt="Git" title="Git" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/docker" height="40" alt="Docker" title="Docker" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/githubactions" height="40" alt="GitHub Actions" title="GitHub Actions" />&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/white" /><img src="https://cdn.simpleicons.org/vercel" height="40" alt="Vercel" title="Vercel" /></picture>&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/render/white" /><img src="https://cdn.simpleicons.org/render" height="40" alt="Render" title="Render" /></picture>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/pytest" height="40" alt="Pytest" title="Pytest" />
-
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" height="22" alt="" /> <b>LLM & AI Agents</b></td>
+    <td>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/openai.png" /><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/openai.png" height="32" alt="OpenAI" title="OpenAI API" /></picture>&nbsp;
+      <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/gemini-color.svg" height="32" alt="Gemini" title="Gemini API" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claude-color.svg" height="32" alt="Claude" title="Anthropic API" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" height="32" alt="LangChain" title="LangChain" />&nbsp;
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/langgraph.png" /><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/langgraph.png" height="32" alt="LangGraph" title="LangGraph" /></picture>&nbsp;
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/langsmith.png" /><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/langsmith.png" height="32" alt="LangSmith" title="LangSmith" /></picture>&nbsp;
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/mcp.png" /><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/mcp.png" height="32" alt="MCP" title="Model Context Protocol" /></picture>&nbsp;
+      <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/huggingface-color.svg" height="32" alt="Hugging Face" title="Hugging Face / Sentence Transformers" />
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" height="22" alt="" /> <b>RAG & ML</b></td>
+    <td>
+      <img src="https://cdn.simpleicons.org/qdrant" height="32" alt="Qdrant" title="Qdrant" />&nbsp;
+      <img src="https://cdn.simpleicons.org/meta" height="32" alt="FAISS" title="FAISS (Meta)" />&nbsp;
+      <img src="https://cdn.simpleicons.org/pytorch" height="32" alt="PyTorch" title="PyTorch / Torchvision" />&nbsp;
+      <img src="https://cdn.simpleicons.org/scikitlearn" height="32" alt="scikit-learn" title="scikit-learn" />&nbsp;
+      <img src="https://cdn.simpleicons.org/opencv" height="32" alt="OpenCV" title="OpenCV" />&nbsp;
+      <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" height="32" alt="XGBoost" title="XGBoost" />
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" height="22" alt="" /> <b>Development & Data</b></td>
+    <td>
+      <img src="https://cdn.simpleicons.org/python" height="32" alt="Python" title="Python" />&nbsp;
+      <img src="https://cdn.simpleicons.org/typescript" height="32" alt="TypeScript" title="TypeScript" />&nbsp;
+      <img src="https://cdn.simpleicons.org/fastapi" height="32" alt="FastAPI" title="FastAPI" />&nbsp;
+      <img src="https://cdn.simpleicons.org/react" height="32" alt="React" title="React" />&nbsp;
+      <img src="https://cdn.simpleicons.org/postgresql" height="32" alt="PostgreSQL" title="PostgreSQL / SQL" />&nbsp;
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pandas/white" /><img src="https://cdn.simpleicons.org/pandas" height="32" alt="Pandas" title="Pandas" /></picture>&nbsp;
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/numpy/4DABCF" /><img src="https://cdn.simpleicons.org/numpy" height="32" alt="NumPy" title="NumPy" /></picture>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" height="22" alt="" /> <b>Tools & Deployment</b></td>
+    <td>
+      <img src="https://cdn.simpleicons.org/git" height="32" alt="Git" title="Git" />&nbsp;
+      <img src="https://cdn.simpleicons.org/docker" height="32" alt="Docker" title="Docker" />&nbsp;
+      <img src="https://cdn.simpleicons.org/githubactions" height="32" alt="GitHub Actions" title="GitHub Actions" />&nbsp;
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/white" /><img src="https://cdn.simpleicons.org/vercel" height="32" alt="Vercel" title="Vercel" /></picture>&nbsp;
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/render/white" /><img src="https://cdn.simpleicons.org/render" height="32" alt="Render" title="Render" /></picture>&nbsp;
+      <img src="https://cdn.simpleicons.org/pytest" height="32" alt="Pytest" title="Pytest" />
+    </td>
+  </tr>
+</table>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" height="32" alt="" /> GitHub Stats

@@ -30,7 +30,7 @@ I'm a final-year **Information Technology student** focused on **Applied AI** an
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" height="20" alt="" /> **Focus:** LLM Agents, RAG, Deep Learning, and Computer Vision
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" height="20" alt="" /> **Learning:** MLOps, LLMOps, advanced CV architectures, and multi-agent systems
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" height="20" alt="" /> **Open to:** AI Engineer internships, junior roles, and collaborations
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" height="20" alt="" /> **Open to:** AI Engineer, junior roles, and collaborations
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" height="32" alt="" /> Tech Stack
 
